@@ -10,7 +10,7 @@ src="https://media.istockphoto.com/id/1356364287/de/foto/nahaufnahme-konzentrier
 </div>
 
 # 💫 About Me:
-➡️Currently, I'm furthering my education in the field of software development.<br>📫How to reach me nassim.lahoudi@hotmail.com<br>⚡Fun Fact Soccer & Code
+➡️Currently, I'm furthering my education in the field of software development.<br>📫How to reach me info@nassim-lahoudi.de<br>⚡Fun Fact Soccer & Code
 
 
 ## 🌐 Socials:
