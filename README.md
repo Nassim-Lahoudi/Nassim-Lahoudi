@@ -4,10 +4,13 @@
 <div align="center">I am Nassim Lahoudi, aspiring Software Developer from Germany.</div>  
   
 
-- 🔭 I’m currently working on [Github Profile](https://github.com/nassim-lahoudi)  
-  
+- 🌱 I’m currently learning **React**
 
-- 🌱 I’m currently learning React  
+- 👨‍💻 All of my projects are available at [https://github.com/Nassim-Lahoudi](https://github.com/Nassim-Lahoudi)
+
+- 💬 Ask me about **Web, Python, React**
+
+- 📫 How to reach me **info@nassim-lahoudi.de**
   
 
 <br/>  
