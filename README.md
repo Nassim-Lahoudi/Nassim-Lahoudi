@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nassim-Lahoudi](https://github.com/Nassim-Lahoudi)
-
 - 💬 Ask me about **Web, Python, React**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Nassim-Lahoudi](https://github.com/Nassim-Lahoudi)
 
 - 📫 How to reach me **info@nassim-lahoudi.de**
   
