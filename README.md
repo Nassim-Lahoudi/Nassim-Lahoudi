@@ -3,23 +3,18 @@
 </div>
 <div align="center">I am Nassim Lahoudi, aspiring Software Developer from Germany.</div>  
   
-
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Web, Python, React**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nassim-Lahoudi](https://github.com/Nassim-Lahoudi)
 
 - 📫 How to reach me **info@nassim-lahoudi.de**
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Language & Frameworks  
 <div align="center">  
@@ -34,12 +29,9 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-
-
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -57,18 +49,13 @@
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nassim-lahoudi&" align="center" /></div>  
 
 <br/>  
 
-  
-
 <br/>  
 
 <br />
-
