@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nassim-Lahoudi](https://github.com/Nassim-Lahoudi)
+- 👨‍💻 All of my projects are available at [Github Profile](https://github.com/Nassim-Lahoudi)
 
 - 📫 How to reach me **info@nassim-lahoudi.de**
   
