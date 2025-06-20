@@ -51,11 +51,6 @@
   
 <br/>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nassim-lahoudi&" align="center" /></div>  
-
-<br/>  
-
-<br/>  
+<br />
 
 <br />
