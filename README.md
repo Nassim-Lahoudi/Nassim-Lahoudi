@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Github Profile](https://github.com/Nassim-Lahoudi?tab=repositories)
 
-- 🔗 Feel free to visit my [LinkedIn profile](https://www.linkedin.com/in/dein-benutzername) for more about my professional background and projects.
+- 🔗 Feel free to visit my [LinkedIn profile](https://www.linkedin.com/in/nassim-lahoudi) for more about my professional background and projects.
 
 - 📫 How to reach me **info@nassim-lahoudi.de**
   
