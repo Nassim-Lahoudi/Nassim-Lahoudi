@@ -3,11 +3,13 @@
 </div>
 <div align="center">I am Nassim Lahoudi, aspiring Software Developer from Germany.</div>  
   
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React & Python**
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Python**
 
-- 👨‍💻 All of my projects are available at [Github Profile](https://github.com/Nassim-Lahoudi)
+- 👨‍💻 All of my projects are available at [Github Profile](https://github.com/Nassim-Lahoudi?tab=repositories)
+
+- 🔗 Feel free to visit my [LinkedIn profile](https://www.linkedin.com/in/dein-benutzername) for more about my professional background and projects.
 
 - 📫 How to reach me **info@nassim-lahoudi.de**
   
