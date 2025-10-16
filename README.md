@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div align="center">I am Nassim Lahoudi, aspiring Software Developer from Germany.</div>  
+<div align="center">I’m Nassim Lahoudi, an aspiring software developer from Germany 🇩🇪.</div>  
   
 - 🌱 I’m currently learning **React & Python**
 
