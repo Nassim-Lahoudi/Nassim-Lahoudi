@@ -1,25 +1,27 @@
+<!-- Header -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>
-<div align="center">I’m Nassim Lahoudi, an aspiring software developer from Germany 🇩🇪.</div>  
-  
-- 🌱 I’m currently learning **React & Python**
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, Python**
+<!-- Intro -->
+<div align="center">
+  I’m Nassim Lahoudi, an aspiring software developer from Germany 🇩🇪.
+</div>
 
-- 👨‍💻 All of my projects are available at [Github Profile](https://github.com/Nassim-Lahoudi?tab=repositories)
+<ul>
+  <li>🌱 I’m currently learning <strong>React & Python</strong></li>
+  <li>💬 Ask me about <strong>HTML, CSS, Javascript, React, Python</strong></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://github.com/Nassim-Lahoudi?tab=repositories" target="_blank">Github Profile</a></li>
+  <li>🔗 Feel free to visit my <a href="https://www.linkedin.com/in/nassim-lahoudi" target="_blank">LinkedIn profile</a> for more about my professional background and projects.</li>
+  <li>📫 How to reach me <strong>info@nassim-lahoudi.de</strong></li>
+</ul>
 
-- 🔗 Feel free to visit my [LinkedIn profile](https://www.linkedin.com/in/nassim-lahoudi) for more about my professional background and projects.
+<br/>
 
-- 📫 How to reach me **info@nassim-lahoudi.de**
-  
-<br/>  
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### Language & Frameworks  
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; border: none;">
+<!-- Skill Set -->
+<h2 align="center">My Skill Set</h2>
+<h3 align="center">Language & Frameworks</h3>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
   </a>
@@ -49,29 +51,23 @@
   </a>
 </div>
 
+<br/>
 
-</td></tr></table>  
-
-<br/>  
-
-## Connect with me  
+<!-- Connect with me -->
+<h2 align="center">Connect with me</h2>
 <div align="center">
-<a href="https://dev.to/nassim-lahoudi" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/nassim-lahoudi" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/nassim-lahoudi" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/nassim-lahoudi" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br/>  
+  <a href="https://dev.to/nassim-lahoudi" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/nassim-lahoudi" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://github.com/nassim-lahoudi" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://gitlab.com/nassim-lahoudi" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" style="margin-bottom: 5px;" />
+  </a>
+</div>
 
-<br />
-
-<br />
+<br/><br/><br/>
