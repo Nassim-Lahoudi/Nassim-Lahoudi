@@ -19,16 +19,7 @@
 <table><tr><td valign="top" width="33%">
 
 ### Language & Frameworks  
-<div style="
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 20px;
-  border: none;
-  width: 100%;
-  padding: 20px 0;
-">
+<p align="center">
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
   </a>
@@ -56,8 +47,7 @@
   <a href="https://github.com/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
   </a>
-</div>
-
+</p>
 
 
 </td></tr></table>  
