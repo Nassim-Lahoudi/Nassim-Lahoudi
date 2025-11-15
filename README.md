@@ -9,10 +9,12 @@
 
 - 👨‍💻 All of my projects are available at [Github Profile](https://github.com/Nassim-Lahoudi?tab=repositories)
 
-- 🔗 Feel free to visit my [LinkedIn profile](https://www.linkedin.com/in/nassim-lahoudi) for more about my professional background and projects.
+- 🧰 My personal portfolio website is currently under development. I’ll be adding projects and content soon at [nassim-lahoudi.de](nassim-lahoudi.de)
+ 
+- 🔗 You can also visit my [LinkedIn profile](https://www.linkedin.com/in/nassim-lahoudi) to learn more about my professional background and ongoing projects
 
-- 📫 How to reach me **info@nassim-lahoudi.de**
-  
+- 📫 Reach me at **info@nassim-lahoudi.de**
+
 <br/>  
 
 ## My Skill Set  
