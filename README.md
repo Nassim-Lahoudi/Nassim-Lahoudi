@@ -82,6 +82,10 @@
 	<a href="https://gitlab.com/nassim-lahoudi" target="_blank">
 		<img src="https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" style="margin-bottom: 5px;" />
 	</a>
+	<a href="mailto:info@nassim-lahoudi.de" target="_blank">
+		<img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+	</a>
 </div>
+
 
 <br /><br /><br />
