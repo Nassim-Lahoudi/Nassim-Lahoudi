@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	I’m Nassim Lahoudi, an aspiring software developer from Germany 🇩🇪.
+	I’m Nassim Lahoudi, an aspiring state-certified business IT assistant from Germany 🇩🇪.
 </div>
 
 <br/>
