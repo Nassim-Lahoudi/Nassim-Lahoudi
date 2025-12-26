@@ -17,7 +17,7 @@
 		<a href="https://github.com/Nassim-Lahoudi?tab=repositories">Github Profile</a>
 	</li>
 	<br/>
-	<li>🧰 My personal portfolio website is currently under development. I’ll be adding projects and content soon at 
+	<li>🧰 My personal portfolio website is now complete. Feel free to take a look around.
 		<a href="https://nassim-lahoudi.de/">nassim-lahoudi.de</a>
 	</li>
 	<br/>
