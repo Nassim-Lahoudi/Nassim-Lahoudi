@@ -9,7 +9,7 @@
 <br/>
 
 <ul>
-	<li>🌱 I’m currently learning <strong>React & SQL</strong></li>
+	<li>🌱 I’m currently learning <strong>React, node.js and SQL</strong></li>
 	<br/>
 	<li>💬 Ask me about <strong>HTML, CSS, JavaScript, React, Python</strong></li>
 	<br/>
