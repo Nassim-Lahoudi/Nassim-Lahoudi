@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	I’m Nassim Lahoudi, an state-certified business IT assistant from Germany 🇩🇪.
+	I’m Nassim, an state-certified business IT assistant from Germany 🇩🇪.
 </div>
 
 <br/>
@@ -17,11 +17,6 @@
 		<a href="https://github.com/Nassim-Lahoudi?tab=repositories">Github Profile</a>
 	</li>
 	<br/>
-	<li>🧰 My personal portfolio website is now complete. Feel free to take a look around.
-		<a href="https://nassim-lahoudi.de/">nassim-lahoudi.de</a>
-	</li>
-	<br/>
-	<li>📫 Reach me at <a href="mailto:info@nassim-lahoudi.de"><strong>info@nassim-lahoudi.de</strong></a></li>
 </ul>
 
 <br />
