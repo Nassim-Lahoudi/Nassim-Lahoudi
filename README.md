@@ -21,11 +21,6 @@
 		<a href="https://nassim-lahoudi.de/">nassim-lahoudi.de</a>
 	</li>
 	<br/>
-	<li>🔗 You can also visit my 
-		<a href="https://www.linkedin.com/in/nassim-lahoudi">LinkedIn profile</a> 
-		to learn more about my professional background and ongoing projects
-	</li>
-	<br/>
 	<li>📫 Reach me at <a href="mailto:info@nassim-lahoudi.de"><strong>info@nassim-lahoudi.de</strong></a></li>
 </ul>
 
